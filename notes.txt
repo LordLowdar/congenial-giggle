@@ -2,3 +2,5 @@
 ##Alt info given to colored pictures
 ##Header tag changed 
 ##Div hero?
+##Fonts needed some quotes
+##
