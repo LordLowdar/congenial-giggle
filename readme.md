@@ -15,7 +15,7 @@ The site is hosted on git hub and can be found at https://lordlowdar.github.io/c
 
 This is intended to be a landing page and will be used as a summary of the Horiseon
 
-<img src=".assets/images/Demo" />
+<img src=".assets/images/Demo.png">
 
 ## Credits
 
